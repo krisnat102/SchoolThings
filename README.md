@@ -1,2 +1,2 @@
-# ScoolThings
+# SchoolThings
  School projects
