@@ -1,4 +1,4 @@
-package Abstract;
+package Abstract.Animals;
 
 public class Duck extends FarmyardAnimal {
     public void MakeNoise() {
